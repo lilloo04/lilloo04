@@ -1,13 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello,%20I'm%20Sihyeon!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Hi,%20I'm%20Sihyeon!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-## 📚 Featured Projects  
-- [**공동구매 플랫폼**](https://github.com/9oormthon-univ/2024_DANPOONG_TEAM_49_BE): 기획, 백엔드(Spring)
-- [**인테리어 추천 서비스**](https://github.com/house-making-node/BACKEND): 백엔드(Node.js)
-- [**롤링페이퍼 타입캡슐 서비스**](https://github.com/REmemory-team/REmemory-Web): 프론트엔드(React)
-</br>
-
 
 ## 🏫 Activities  
 <ul>
@@ -16,10 +9,6 @@
   <li><a href="https://github.com/Gachon-UMC"><strong>uni_makeus_challenge</strong></a> 6기 BE (2024-1)</li>
   <li><a href="https://github.com/Gachon-UMC"><strong>uni_makeus_challenge</strong></a> 5기 FE (2023-2)</li>
 </ul>
-</br>
-
-## 📝 Certification  
-- **SQLD (2024.09)**
 </br>
 
 ## 💻 Tech Stack
